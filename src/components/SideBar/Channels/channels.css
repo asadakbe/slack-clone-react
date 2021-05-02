@@ -1,0 +1,16 @@
+.clickable {
+    color: rgb(190, 170, 190) !important;
+}
+
+.clickable:hover {
+    cursor: pointer;
+}
+
+.channel {
+    color: rgb(190, 170, 190) !important; 
+   
+}
+
+.ui.menu .item.active {
+    background: #1164A3 !important;
+}
